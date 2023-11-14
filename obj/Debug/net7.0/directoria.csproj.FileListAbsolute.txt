@@ -1,0 +1,15 @@
+/Users/ekononykhin/Projects/directoria/directoria/obj/Debug/net7.0/directoria.csproj.AssemblyReference.cache
+/Users/ekononykhin/Projects/directoria/directoria/obj/Debug/net7.0/directoria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekononykhin/Projects/directoria/directoria/obj/Debug/net7.0/directoria.AssemblyInfoInputs.cache
+/Users/ekononykhin/Projects/directoria/directoria/obj/Debug/net7.0/directoria.AssemblyInfo.cs
+/Users/ekononykhin/Projects/directoria/directoria/obj/Debug/net7.0/directoria.csproj.CoreCompileInputs.cache
+/Users/ekononykhin/Projects/directoria/directoria/bin/Debug/net7.0/directoria
+/Users/ekononykhin/Projects/directoria/directoria/bin/Debug/net7.0/directoria.deps.json
+/Users/ekononykhin/Projects/directoria/directoria/bin/Debug/net7.0/directoria.runtimeconfig.json
+/Users/ekononykhin/Projects/directoria/directoria/bin/Debug/net7.0/directoria.dll
+/Users/ekononykhin/Projects/directoria/directoria/bin/Debug/net7.0/directoria.pdb
+/Users/ekononykhin/Projects/directoria/directoria/obj/Debug/net7.0/directoria.dll
+/Users/ekononykhin/Projects/directoria/directoria/obj/Debug/net7.0/refint/directoria.dll
+/Users/ekononykhin/Projects/directoria/directoria/obj/Debug/net7.0/directoria.pdb
+/Users/ekononykhin/Projects/directoria/directoria/obj/Debug/net7.0/directoria.genruntimeconfig.cache
+/Users/ekononykhin/Projects/directoria/directoria/obj/Debug/net7.0/ref/directoria.dll
